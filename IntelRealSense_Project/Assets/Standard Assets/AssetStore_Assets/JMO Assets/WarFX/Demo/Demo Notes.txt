@@ -1,0 +1,2 @@
+M4 Weapon model from Unity 3.5 Bootcamp Demo
+Bullet Holes textures edited from Unity 3.5 Bootcamp Demo

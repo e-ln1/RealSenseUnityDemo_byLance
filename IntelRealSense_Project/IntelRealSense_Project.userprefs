@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\AssetStore_Assets\JMO Assets\WarFX\Editor\WFX_ParticleMeshBillboardEditor.cs">
+    <Files>
+      <File FileName="Assets\LR_Scripts\GameEventsOnRails.cs" Line="51" Column="52" />
+      <File FileName="Assets\LR_Scripts\VoiceRec.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\PirateShipMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\EventManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\testEventManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\testEventTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\RSSelectorRaycast.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\SpeechTesting.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\PlayerShipStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\LR_Scripts\PirateShipStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\AssetStore_Assets\JMO Assets\WarFX\Editor\WFX_ParticleMeshBillboardEditor.cs" Line="134" Column="6" />
+      <File FileName="Assets\Standard Assets\AssetStore_Assets\JMO Assets\!JMO Assets Readme.txt" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\AssetStore_Assets\JMO Assets\WarFX\!WarFX Readme.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

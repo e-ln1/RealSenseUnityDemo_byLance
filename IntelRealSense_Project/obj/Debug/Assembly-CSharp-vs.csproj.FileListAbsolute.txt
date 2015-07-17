@@ -1,0 +1,17 @@
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\libpxcclr.unity.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\UnityEditor.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\UnityEngine.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\obj\Debug\Assembly-CSharp.dll
+C:\UnityProjects\Intel_RealSense_Demo\IntelRealSense_Project\obj\Debug\Assembly-CSharp.pdb
